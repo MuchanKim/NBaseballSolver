@@ -252,7 +252,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"NBaseballSolver/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"NBaseballSolver/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = F7T7NU8578;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -279,7 +279,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"NBaseballSolver/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"NBaseballSolver/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = F7T7NU8578;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
